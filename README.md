@@ -79,9 +79,9 @@ The objective of this project is to apply fundamental frontend web development c
 
 ## 👩‍💻 Developer
 **Collaboration Team**
-**Divya Yadav**
-**Ayush Yadav**
-**Deepali**
+1. Divya Yadav
+2. Ayush Yadav
+3. Deepali
 - Course: B.Tech CSE
 - Semester: 1st Semester
 - Project: Vehicle Rental Platform
