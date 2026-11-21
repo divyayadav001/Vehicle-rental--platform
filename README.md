@@ -33,16 +33,20 @@ The main objective of this project is to develop a professional-looking vehicle 
 Here are some previews of the Vehicle Rental Platform.
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage]<img width="1660" height="779" alt="image" src="https://github.com/user-attachments/assets/dfdd6dfd-c0f2-4321-ad73-6b7905933c6d" />
+
 
 ### 🚘 Available Vehicles
-![Available Vehicles](screenshots/vehicles.png)
+![Available Vehicles] <img width="1633" height="782" alt="image" src="https://github.com/user-attachments/assets/889dd52d-5972-448f-b6ee-26ec68e7e753" />
+
 
 ### 📋 Vehicle Details
-![Vehicle Details](screenshots/vehicle-details.png)
+![Vehicle Details] <img width="1534" height="715" alt="image" src="https://github.com/user-attachments/assets/19e42b59-abef-4fae-a432-a9ff8768517d" />
+
 
 ### 📅 Booking Section
-![Booking Section](screenshots/booking.png)
+![Booking Section]<img width="1216" height="807" alt="image" src="https://github.com/user-attachments/assets/ffc410f2-e14a-4504-ba7a-fe28a186d024" />
+
 
 ## 📂 Project Structure
 
@@ -76,7 +80,6 @@ The objective of this project is to apply fundamental frontend web development c
 ## 👩‍💻 Developer
 
 **Divya Yadav**
-
 - Course: B.Tech CSE
 - Semester: 1st Semester
 - Project: Vehicle Rental Platform
