@@ -78,8 +78,10 @@ Vehicle-Rental-Platform/
 The objective of this project is to apply fundamental frontend web development concepts and gain practical experience in creating a real-world website.
 
 ## 👩‍💻 Developer
-
+**Collaboration Team**
 **Divya Yadav**
+**Ayush Yadav**
+**Deepali**
 - Course: B.Tech CSE
 - Semester: 1st Semester
 - Project: Vehicle Rental Platform
